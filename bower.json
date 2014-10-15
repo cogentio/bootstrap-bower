@@ -4,8 +4,8 @@
     },
     "name": "angular-bootstrap-stramel",
     "version": "0.11.2",
-    "main": ["./ui-bootstrap-tpls.js"],
-    "ignore": [],
+    "main": ["ui-bootstrap-tpls.js"],
+    "ignore": [".*"],
     "dependencies": {
         "angular": ">=1"
     }    
